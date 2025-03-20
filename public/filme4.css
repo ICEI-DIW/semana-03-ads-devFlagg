@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background-color: #110303; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    font-family: 'Roboto', sans-serif; /* Fonte */
+}
+
+.header {
+    text-align: center;
+    padding: 20px;
+}
+
+.filme-info {
+    display: flex; /* Usar flexbox para alinhar o cartaz e as informações */
+    flex-direction: column; /* Alinha os elementos em coluna */
+    align-items: center; /* Centraliza horizontalmente */
+    padding: 20px;
+}
+
+.cartaz {
+    width: 300px; /* Largura do cartaz */
+    height: auto; /* Mantém a proporção da imagem */
+    border-radius: 5px; /* Bordas arredondadas */
+    margin-bottom: 20px; /* Espaçamento abaixo do cartaz */
+}
+
+h1 {
+    margin: 20px 0; /* Espaçamento acima e abaixo do título */
+    text-align: center; /* Centraliza o título */
+}
+
+.informacoes {
+    max-width: 600px; /* Largura máxima para as informações */
+}
+
+h2 {
+    margin-top: 20px; /* Espaçamento acima dos títulos */
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}

@@ -8,17 +8,18 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome: Caio Neri Fonseca Lacerda
+- Matricula: 1580550
+- Proposta de projeto escolhida: Escolhi fazer um catalogo de filmes
 - Breve descrição sobre seu projeto:
 
 
 ## Print do esboço criada
 
 <<  COLOQUE A IMAGEM AQUI >>
-
+![alt text](esboço-1.png)
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+![alt text](Homepage.png)
